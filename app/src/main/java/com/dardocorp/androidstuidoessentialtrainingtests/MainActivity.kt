@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var strings = arrayOf("one","three");
+        var strings = arrayOf("uno","tres");
         println(strings[0]);
 
 
